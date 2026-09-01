@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Day 01 - Failed Login Attempts
 
 ## 30 Days SOC Analyst Practical Investigation Challenge
