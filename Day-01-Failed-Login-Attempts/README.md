@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Day 01 - Failed Login Attempts
 
 ## 30 Days SOC Analyst Practical Investigation Challenge
@@ -278,3 +279,6 @@ of handling a failed login alert as a SOC Analyst:
 Day 01 completed.
 
 **29 more days of practical SOC investigations to go. 🚀**
+=======
+# 30-Days-SOC-Analyst-Challenge_2026
+>>>>>>> ddd140224c95723b48524e39b12c98b2029ffde1
