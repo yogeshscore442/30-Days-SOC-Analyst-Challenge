@@ -107,24 +107,4 @@ Create a SOC-style incident report containing the findings, evidence, analysis, 
 
 ---
 
-## 📂 Repository Structure
-
-```text
-30-Days-SOC-Analyst-Challenge/
-│
-├── README.md
-│
-├── Day-01-Failed-Login-Attempts/
-│   ├── README.md
-│   ├── Report.md
-│   ├── Splunk-Queries.md
-│   └── Screenshot/
-│       ├── 01-detection-proof.png
-│       ├── 02-event-field-analysis.png
-│       ├── 03-failed-login-count.png
-│       └── 04-login-timeline.png
-│
-├── Day-02-...
-│
-└── Day-30-...
 
