@@ -42,7 +42,7 @@ The challenge may involve different security tools and technologies, including:
 |---|---|---|
 | Day 01 | Failed Login Attempts | ✅ Completed |
 | Day 02 | Brute Force Attack | ✅ Completed |
-| Day 03 | Password Spraying | ⬜ Pending |
+| Day 03 | Password Spraying | ✅ Completed |
 | Day 04 | Impossible Travel Login | ⬜ Pending |
 | Day 05 | Suspicious Geo-Location Login | ⬜ Pending |
 | Day 06 | Account Lockout | ⬜ Pending |
