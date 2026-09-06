@@ -45,7 +45,7 @@ The challenge may involve different security tools and technologies, including:
 | Day 03 | Password Spraying | ✅ Completed |
 | Day 04 | Impossible Travel Login | ✅ Completed |
 | Day 05 | Suspicious Geo-Location Login | ✅ Completed |
-| Day 06 | Account Lockout | ⬜ Pending |
+| Day 06 | Account Lockout | ✅ Completed |
 | Day 07 | Privileged Account Login | ⬜ Pending |
 | Day 08 | New Admin Account Created | ⬜ Pending |
 | Day 09 | User Added to Admin Group | ⬜ Pending |
