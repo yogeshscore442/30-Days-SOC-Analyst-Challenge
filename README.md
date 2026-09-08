@@ -47,7 +47,7 @@ The challenge may involve different security tools and technologies, including:
 | Day 05 | Suspicious Geo-Location Login | ✅ Completed |
 | Day 06 | Account Lockout | ✅ Completed |
 | Day 07 | Privileged Account Login | ✅ Completed |
-| Day 08 | New Admin Account Created | ⬜ Pending |
+| Day 08 | New Admin Account Created | ✅ Completed |
 | Day 09 | User Added to Admin Group | ⬜ Pending |
 | Day 10 | Phishing Email Attack | ⬜ Pending |
 | Day 11 | Malicious Attachment Detected | ⬜ Pending |
